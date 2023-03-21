@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+.idea
+.vscode
+.DS_Store
+yarn-error.log
+.env
